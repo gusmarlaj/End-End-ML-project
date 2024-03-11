@@ -1,0 +1,5 @@
+#All packages used
+pandas
+numpy
+seaborn
+-e .
