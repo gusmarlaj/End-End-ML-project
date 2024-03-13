@@ -1,16 +1,20 @@
-#End to End Machine Learning "Student exam performance prediction"
+# End-to-End Machine Learning: "Student Exam Performance Prediction"
 
-This is a end to end Data Science Project Implementation.
+This repository contains an end-to-end implementation of a data science project focused on predicting student exam performance.
 
-Skills:
-Github And Code Set up
-Project Structure, Logging And Exception Handling
-EDA And Model Training 
-Data Ingestion
-Data Transformation
-Model Trainer
-Predict Pipeline
-Model Deployment in AWS
+## Skills Covered
+
+- **Github And Code Set up**
+- **Project Structure, Logging And Exception Handling**
+- **EDA And Model Training**
+- **Data Ingestion**
+- **Data Transformation**
+- **Model Trainer**
+- **Predict Pipeline**
+- **Model Deployment in AWS**
+
+Reference: Krisk Naik
+
 
 
 
